@@ -130,7 +130,7 @@ Here’s what I’m actively working on improving:
 ## Contact
 
 **GitHub:** `hosseinbio`
-(**LinkedIn:** `linkedin.com/in/hossein-gholami-9a6016301`
+**LinkedIn:** `linkedin.com/in/hossein-gholami-9a6016301`
 
 If you're interested in collaboration, feedback, or code reviews, feel free to reach out.
 
