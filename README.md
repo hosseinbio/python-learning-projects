@@ -1,8 +1,18 @@
-# Python Learning & Bioinformatics Projects
+# Python Learning & Project Portfolio
 
-A curated collection of Python projects I’ve built while strengthening my programming skills and transitioning toward **data analysis**, **automation tools**, and **introductory bioinformatics scripting**.
+Welcome to my Python learning and project portfolio.  
+This repository documents my continuous progress in Python, data analysis, bioinformatics programming, and practical software development.  
+All projects are structured, organized, and regularly updated as I advance toward professional-level competency.
 
-This repository represents my hands-on learning path—starting from fundamentals and growing step-by-step toward real-world, domain-relevant applications.
+---
+
+## About Me
+
+I’m a Human Genetics MSc student with a strong interest in **Python**, **data analysis**, **bioinformatics**, and **machine learning**.  
+My long-term goal is to work at the intersection of biology and computation, and I’m actively building a practical, job-ready skillset through hands-on projects.
+
+I enjoy solving real problems, learning through structured projects, and writing clean, organized code.  
+This repository serves as both my learning archive and professional project portfolio.
 
 ---
 
@@ -11,127 +21,107 @@ This repository represents my hands-on learning path—starting from fundamental
 ```
 python-learning-projects/
 │
-├── beginner_projects/
-├── utility_tools/
-└── bioinformatics_projects/
+├── projects/
+│   ├── utility_tools/              → General-purpose tools and small applications
+│   ├── bioinformatics_projects/     → Genetics & bioinformatics-related tools
+│   └── games/                       → Simple interactive command-line games
+│
+├── practice/                        → Coding exercises, prototypes, scripts│
 ```
 
----
-
-## 1) Beginner Projects
-
-Projects focused on fundamental Python concepts—perfect for practicing logic, functions, loops, and user interaction.
-
-**Examples:**
-
-* `number_guessing_game`
-* `rock_paper_scissors`
-* `shopping_list_manager`
-
-**Goal:**
-Build confidence with core programming and writing readable code.
+This structure helps keep production-grade projects separate from practice exercises and makes the repository easy to navigate.
 
 ---
 
-## 2) Utility Tools
+## Featured Projects
 
-Practical, reusable scripts designed to build real-world problem-solving skills.
-These emphasize cleaner structure, modularity, and simple automation.
+Below is a curated list of all current projects — grouped by type.
 
-**Examples:**
+### Bioinformatics Projects
+- **Sequence Analysis Tool**  
+  GC content, ORF detection, complement sequence generation, and CSV reporting.
 
-* `password_generator`
-* `password_generator_streamlit`
-* `contact_book`
-
-**Goal:**
-Move toward tool-building and thinking like a developer.
+- **Motif Finder**  
+  Detects repeated motifs, handles consecutive motif runs, and maps biologically relevant patterns.
 
 ---
 
-## 3) Bioinformatics Projects
-
-Early bioinformatics tools for sequence processing and pattern analysis.
-These projects gradually introduce real techniques used in molecular biology labs.
-
-**Examples:**
-
-* `motif_finder`
-* `sequence_analysis_tool`
-
-**Goal:**
-Bridge Python with genetics—building a foundation for future bioinformatics work.
+### Utility Tools
+- **Contact Book** — Create, manage, and search simple contact lists.  
+- **Shopping List Manager** — Add/remove items with validation & clean CLI workflow.  
+- **Password Generator** — Dynamic password creation with user-defined rules.  
+- **Password Generator (Streamlit)** — Web-based version with interactive interface.
 
 ---
 
-## Tech Stack
-
-**Languages:**
-
-* Python 3.10+
-
-**Libraries Used (across projects):**
-
-* `pandas`
-* `re`
-* `streamlit`
-* Standard Python libraries (`os`, `pathlib`, etc.)
-* ... and so on
-
-**Tools:**
-
-* Git & GitHub
-* VSCode
-* Virtual environments
-* Modular Python structures
+### Simple Games
+- **Number Guessing Game** — Logical feedback loop and randomization.  
+- **Rock Paper Scissors** — CLI game with replay logic and input validation.
 
 ---
 
-## Running a Project
-
-Most scripts can be executed using:
-
-```bash
-python main.py
-```
-
-If additional dependencies are needed, they will be listed inside the project’s own README and requirements.
+## Practice
+A collection of learning exercises, Python basics, and exploratory scripts used to sharpen my fundamentals.  
+This folder grows as I progress through courses, write small utilities, or prototype ideas.
 
 ---
 
-## Roadmap (Next Steps)
+## Learning Roadmap
 
-Here’s what I’m actively working on improving:
+I maintain an active roadmap that reflects my ongoing training and future learning goals.
 
-### Short-term
+### **Phase 1 — Core Python**
+- Clean code principles  
+- Functions, modules, file I/O  
+- Regular expressions  
+- Error handling  
+- Basic algorithms & data structures  
 
-* Clean up older projects & modernize structure
-* Add docstrings + function explanations
-* Implement more CLI-based tools
+### **Phase 2 — Practical Programming**
+- CLI tools  
+- Project structuring  
+- Version control (Git/GitHub)  
+- Packaging basics  
 
-### Medium-term
+### **Phase 3 — Data Analysis**
+- NumPy & pandas  
+- Working with biological datasets  
+- Exploratory data analysis (EDA)  
+- Plotting & visualization  
 
-* Add beginner → intermediate data analysis projects
-* Visualization projects (matplotlib, seaborn)
-* Machine learning mini-projects (scikit-learn)
+### **Phase 4 — Bioinformatics Programming**
+- FASTA/FASTQ handling  
+- Sequence processing  
+- ORF/motif detection  
+- NGS preprocessing basics  
 
-### Long-term
+### **Phase 5 — Machine Learning**
+- scikit-learn fundamentals  
+- Evaluation metrics  
+- Data preprocessing pipelines  
+- Feature engineering  
 
-* Build more bioinformatics tools:
-
-  * ORF scanners
-  * motif & repeat analysis
-  * basic aligners
-* Move toward real datasets (FASTA, FASTQ, VCF)
-* Deploy small web tools (Streamlit)
+### **Phase 6 — Deep Learning**
+- TensorFlow & Keras basics  
+- Building biological sequence models  
+- Intro to CNNs/RNNs  
+- Applied genomics ML  
 
 ---
 
-## Contact
-
-**GitHub:** `hosseinbio`
-**LinkedIn:** `linkedin.com/in/hossein-gholami-9a6016301`
-
-If you're interested in collaboration, feedback, or code reviews, feel free to reach out.
+## Skills
+**Programming:** Python, Regex, File I/O, CLI tools  
+**Data:** pandas, NumPy, CSV/FASTA handling  
+**Bioinformatics:** sequence processing, motif detection, GC/ORF analysis  
+**Tools:** Git & GitHub, Streamlit, Jupyter Notebook  
+**Soft Skills:** problem solving, structured learning, documentation, clean code habits  
 
 ---
+
+## Connect with Me
+
+LinkedIn: **https://linkedin.com/in/hossein-gholami-9a6016301**
+
+---
+
+### If you find this repository helpful or interesting, feel free to star it!
