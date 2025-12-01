@@ -28,7 +28,7 @@ who want to build real data-processing pipelines without relying on heavy extern
 cd fastq_quality_filter/src
 ```
 
-### **2. Run the script
+### **2. Run the script**
 
 python main.py \
     --input ../input/sample.fastq \
