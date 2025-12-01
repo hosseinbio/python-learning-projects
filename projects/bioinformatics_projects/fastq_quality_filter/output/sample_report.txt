@@ -1,0 +1,13 @@
+FASTQ Quality Filter Report
+===========================
+Input: input/sample.fastq
+Output: output/filtered.fastq
+Min Q: 20
+Min Percent: 80.0
+
+total_reads: 1
+accepted_reads: 0
+rejected_reads: 1
+mean_q_before: 15.91
+mean_q_after: 0.0
+accepted_fraction_percent: 0.0
